@@ -1,1 +1,5 @@
 aivenv
+.gitignore
+known_hosts
+*.pub
+ed25519
